@@ -11,4 +11,4 @@
 * CORPID CORPSECRET APPID等参数登陆微信企业号后台可以查看
 
 命令格式：
-`python pyweixin.py CORPID CORPSECRET APPID 联系人 消息内容`
+`python3 pyweixin.py CORPID CORPSECRET APPID 联系人 消息内容`
