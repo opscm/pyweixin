@@ -12,3 +12,7 @@
 
 命令格式：
 `python3 pyweixin.py CORPID CORPSECRET APPID 联系人 消息内容`
+
+
+## python3安装参考
+https://blog.51cto.com/13719882/2128050
